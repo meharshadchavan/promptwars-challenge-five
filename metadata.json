@@ -1,0 +1,6 @@
+{
+  "name": "Fête & Folio — Celebration & Event Planning Assistant",
+  "description": "Enterprise-grade GenAI celebration and event planning workspace for weddings, birthdays, and community events with dynamic budget balancing, chronological run-sheets, vendor checklists, and culturally inclusive creative curation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
